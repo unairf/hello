@@ -11,7 +11,7 @@ public class App
         hello();
     }
     public static String hello() {
-    	System.out.println("Hello DAM");
+    	
     	return "Hello DAM!";
     }
 }
