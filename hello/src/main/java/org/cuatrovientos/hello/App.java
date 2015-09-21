@@ -10,7 +10,8 @@ public class App
     {
         hello();
     }
-    public static void hello() {
+    public static String hello() {
     	System.out.println("Hello DAM");
+    	return "Hello DAM!";
     }
 }
